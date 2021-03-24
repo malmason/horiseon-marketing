@@ -4,13 +4,19 @@ Website for the Horiseon Marketing Firm
 
 ## Table of contents
 
-## General Info About Us
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies used](#technologies)
+- [Location](#location)
+- [Contact](#contact)
+
+## General info
 
 We are a marketing firm dedicated to improving your presence on the internet and on
 social media. We specialize in SEO, Online Reputation Management and Social Media
 Marketing.
 
-## Screenshot
+## Screenshots
 
 ![Homepage Screenshot](/assets/images/home-page-screen.JPG)
 
@@ -18,7 +24,7 @@ Marketing.
 
 HTML and CSS - Edited with Visual Studio Code.
 
-## Location (site url)
+## Location
 
 Take a look at our website here: https://malmason.github.io/horiseon-marketing/
 
