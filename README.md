@@ -5,6 +5,7 @@ Website for the Horiseon Marketing Firm
 ## Table of contents
 
 - [General info](#general-info)
+- [Version History](#version-history)
 - [Screenshots](#screenshots)
 - [Technologies used](#technologies-used)
 - [Location](#location)
@@ -17,6 +18,18 @@ social media. We specialize in SEO, Online Reputation Management and Social Medi
 Marketing.
 
 This website has been modified to include Semantic HTML as well as updates to the style sheet to streamline the code.
+
+## Version History
+
+**Date Modified:** 3/24/2021  
+**Modified By:** M. Mason  
+**Description:** Version 1.0
+
+- Modified the index.html file to use Semantic Tags in place of existing &lt;div&gt; tags.
+- Updated styles.css to reference new Semantic Tags.
+- Combined duplicate styles and added comments to styles.css for manageability.
+- Uploaded website to this Github repository.
+- Created this initial Readme file for documentation purposes.
 
 ## Screenshots
 
