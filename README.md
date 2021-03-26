@@ -37,11 +37,11 @@ This website has been modified to include Semantic HTML as well as updates to th
 
 ![Services Offered](/assets/images/services-offered.JPG)
 
-## Technologies used
+## 💻 Technologies used
 
 HTML and CSS - Edited with Visual Studio Code.
 
-## Location
+## 🌎 Location
 
 Take a look at our website here: [Horiseon Social Services](https://malmason.github.io/horiseon-marketing/)
 
