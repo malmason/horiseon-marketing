@@ -2,7 +2,7 @@
 
 Website for the Horiseon Marketing Firm
 
-## Table of contents
+## 📑 Table of contents
 
 - [General info](#general-info)
 - [Version History](#version-history)
