@@ -47,4 +47,4 @@ Take a look at our website here: [Horiseon Social Services](https://malmason.git
 
 ## 📱 Contact
 
-Malcolm Mason - [Github](https://github.com/malmason) Email: [Malcolm](mailto:malmason66@gmail.com) :email:
+Malcolm Mason - [Github](https://github.com/malmason) Email: [Malcolm](mailto:malmason66@gmail.com) 📧
