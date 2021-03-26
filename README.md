@@ -11,7 +11,7 @@ Website for the Horiseon Marketing Firm
 - [Location](#location)
 - [Contact](#contact)
 
-## General info
+## 📰 General info
 
 We are a marketing firm dedicated to improving your presence on the internet and on
 social media. We specialize in SEO, Online Reputation Management and Social Media
@@ -31,7 +31,7 @@ This website has been modified to include Semantic HTML as well as updates to th
 - Uploaded website to this Github repository.
 - Created this initial Readme file for documentation purposes.
 
-## Screenshots
+## 📸 Screenshots
 
 ![Homepage Screenshot](/assets/images/home-page-screen.JPG)
 
@@ -45,6 +45,6 @@ HTML and CSS - Edited with Visual Studio Code.
 
 Take a look at our website here: [Horiseon Social Services](https://malmason.github.io/horiseon-marketing/)
 
-## Contact
+## 📱 Contact
 
 Malcolm Mason - [Github](https://github.com/malmason) Email: [Malcolm](mailto:malmason66@gmail.com) :email:
