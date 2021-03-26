@@ -19,7 +19,8 @@ Marketing.
 
 This website has been modified to include Semantic HTML as well as updates to the style sheet to streamline the code.
 
-## 📓 Version History
+📓
+## Version History
 
 **Date Modified:** 3/24/2021  
 **Modified By:** M. Mason  
@@ -31,21 +32,24 @@ This website has been modified to include Semantic HTML as well as updates to th
 - Uploaded website to this Github repository.
 - Created this initial Readme file for documentation purposes.
 
-## 📸 Screenshots
+📸
+## Screenshots
 
 ![Homepage Screenshot](/assets/images/home-page-screen.JPG)
 
 ![Services Offered](/assets/images/services-offered.JPG)
 
-## 💻 Technologies used
+💻
+## Technologies used
 
 HTML and CSS - Edited with Visual Studio Code.
 
-## 🌎 Location
+🌎
+## Location
 
 Take a look at our website here: [Horiseon Social Services](https://malmason.github.io/horiseon-marketing/)
 
-## Contact
 📱
+## Contact
 
 Malcolm Mason - [Github](https://github.com/malmason) Email: [Malcolm](mailto:malmason66@gmail.com) 📧
