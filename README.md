@@ -11,6 +11,7 @@ Website for the Horiseon Marketing Firm
 - [Location](#location)
 - [Contact](#contact)
 
+📰
 ## General info
 
 We are a marketing firm dedicated to improving your presence on the internet and on
