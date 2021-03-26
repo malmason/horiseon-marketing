@@ -43,8 +43,8 @@ HTML and CSS - Edited with Visual Studio Code.
 
 ## Location
 
-Take a look at our website here: https://malmason.github.io/horiseon-marketing/
+Take a look at our website here: [Horiseon Social Services](https://malmason.github.io/horiseon-marketing/)
 
 ## Contact
 
-Malcolm Mason - Github: https://github.com/malmason Email: malmason66@gmail.com :e-mail:
+Malcolm Mason - [Github](https://github.com/malmason) Email: [Malcolm](mailto:malmason66@gmail.com) :email:
