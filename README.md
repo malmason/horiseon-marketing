@@ -19,7 +19,7 @@ Marketing.
 
 This website has been modified to include Semantic HTML as well as updates to the style sheet to streamline the code.
 
-## Version History
+## 📓 Version History
 
 **Date Modified:** 3/24/2021  
 **Modified By:** M. Mason  
