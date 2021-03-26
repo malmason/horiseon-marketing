@@ -4,7 +4,7 @@ Website for the Horiseon Marketing Firm
 
 ## 📑 Table of contents
 
-- [General info](#📰 General-info)
+- [General info](#General-info)
 - [Version History](#version-history)
 - [Screenshots](#screenshots)
 - [Technologies used](#technologies-used)
