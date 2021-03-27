@@ -1,7 +1,7 @@
 # Horiseon Social Solutions Services 💬
 
 Website for the Horiseon Marketing Firm
-
+___
 ## 📑 Table of contents
 
 - [General info](#General-info)
@@ -10,7 +10,7 @@ Website for the Horiseon Marketing Firm
 - [Technologies used](#technologies-used)
 - [Location](#location)
 - [Contact](#contact)
-
+___
 📰
 ## General info
 
@@ -19,7 +19,7 @@ social media. We specialize in SEO, Online Reputation Management and Social Medi
 Marketing.
 
 This website has been modified to include Semantic HTML as well as updates to the style sheet to streamline the code.
-
+___
 📓
 ## Version History
 
@@ -32,24 +32,24 @@ This website has been modified to include Semantic HTML as well as updates to th
 - Combined duplicate styles and added comments to styles.css for manageability.
 - Uploaded website to this Github repository.
 - Created this initial Readme file for documentation purposes.
-
+___
 📸
 ## Screenshots
 
 ![Homepage Screenshot](/assets/images/home-page-screen.JPG)
 
 ![Services Offered](/assets/images/services-offered.JPG)
-
+___
 💻
 ## Technologies used
 
 HTML and CSS - Edited with Visual Studio Code.
-
+___
 🌎
 ## Location
 
 Take a look at our website here: [Horiseon Social Services](https://malmason.github.io/horiseon-marketing/)
-
+___
 📱
 ## Contact
 
